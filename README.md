@@ -7,8 +7,6 @@
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -33,19 +31,23 @@ Follow these steps to set up the project on your local machine:
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/Ammar-Abid92/ps5-portfolio.git
+   git clone https://github.com/Ammar-Abid92/chakra-dashboard.git
    ```
+
+2. **Install packages**
 
    Then, move into the directory and run
 
    ```sh
-   yarn
+    yarn
    ```
 
-   If there are any version options on the terminal, choose the latest one and press Enter button. Then run,
+## Usage
 
-   ```sh
-   yarn start
-   ```
+If there are any version options on the terminal, choose the latest one and press Enter button. Then run,
 
-   This will run the project on http://localhost:3000
+```sh
+yarn start
+```
+
+This will run the project on http://localhost:3000
