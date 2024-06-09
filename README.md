@@ -24,7 +24,6 @@ This is a React application designed to be easy to set up and start using. Depen
 
 Make sure you have the following installed on your machine:
 
-- [Node.js](https://nodejs.org/) (v18 or higher)
 - [Yarn](https://yarnpkg.com/) (v1.22.0 or higher)
 
 ## Installation
